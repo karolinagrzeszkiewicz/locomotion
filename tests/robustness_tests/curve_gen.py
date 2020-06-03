@@ -1,5 +1,4 @@
 import os
-import csv
 import math
 import random
 import numpy as np
@@ -81,7 +80,7 @@ def genCurve(k, p, size, file_no):
     df.to_csv(curve_file_csv, index=False)
     return df
 
-def genNCurves(n, k, p, s):
+def genNCurves(n, k, p):
     """
     Inputs:
     >> int n: Number of curves we want to generate
@@ -95,4 +94,4 @@ def genNCurves(n, k, p, s):
         # Use grid size 100x100
         genCurve(k, p, 100, i)
 
-genNCurves(NUM_CURVES, NUM_TERMS, POWER_OF_TERMS, SIZE)
+genNCurves(NUM_CURVES, NUM_TERMS, POWER_OF_TERMS)

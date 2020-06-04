@@ -40,8 +40,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_01",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_01.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -60,8 +60,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_02",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_02.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -80,8 +80,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_03",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_03.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -100,8 +100,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_04",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_04.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -120,8 +120,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_05",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_05.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -140,8 +140,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_06",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_06.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -160,8 +160,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_07",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_07.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -180,8 +180,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_08",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_08.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -200,8 +200,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_09",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_09.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -220,8 +220,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_10",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_10.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -240,8 +240,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_11",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_11.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -260,8 +260,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_12",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_12.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -280,8 +280,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_13",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_13.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -300,8 +300,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_14",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_14.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -320,8 +320,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_15",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_15.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -340,8 +340,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_16",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_16.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -360,8 +360,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_17",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_17.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -380,8 +380,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_18",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_18.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -400,8 +400,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_19",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_19.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -420,8 +420,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_20",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_20.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -440,8 +440,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_21",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_21.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -460,8 +460,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_22",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_22.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -480,8 +480,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_23",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_23.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -500,8 +500,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_24",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_24.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -520,8 +520,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_25",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_25.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -540,8 +540,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_26",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_26.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -560,8 +560,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_27",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_27.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -580,8 +580,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_28",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_28.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -600,8 +600,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_29",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_29.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -620,8 +620,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_30",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_30.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -640,8 +640,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_31",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_31.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -660,8 +660,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_32",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_32.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -680,8 +680,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_33",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_33.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -700,8 +700,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_34",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_34.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -720,8 +720,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_35",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_35.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -740,8 +740,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_36",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_36.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -760,8 +760,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_37",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_37.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -780,8 +780,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_38",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_38.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -800,8 +800,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_39",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_39.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -820,8 +820,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_40",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_40.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -840,8 +840,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_41",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_41.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -860,8 +860,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_42",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_42.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -880,8 +880,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_43",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_43.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -900,8 +900,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_44",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_44.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -920,8 +920,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_45",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_45.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -940,8 +940,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_46",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_46.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
@@ -960,8 +960,8 @@
         }
     },
     {
-        "name": "CRV_49_TEST_00",
-        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_00.dat",
+        "name": "CRV_49_TEST_47",
+        "data_file_location": "/home/zhongxuan/ync/compgeom/locomotion_package/tests/robustness_tests/results/FR_test_higher/CRV_49_TEST_47.dat",
         "animal_attributes": {
             "species": "Magic Scoliosis Fish",
             "exp_type": "MCS",
